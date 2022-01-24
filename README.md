@@ -1,4 +1,4 @@
-# TechBlog-MVC
+# MVC Tech Blog
 
 ## Contents
 
